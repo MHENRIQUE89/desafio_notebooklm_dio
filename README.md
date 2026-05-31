@@ -3,8 +3,26 @@
 ## 🎯 Objetivo
 Estudar e sintetizar as visões de Benjamin Graham, Napoleon Hill, Warren Buffett e Robert Kiyosaki usando Inteligência Artificial.
 
-## 📚 Fontes
-(Liste aqui os links que você usou no NotebookLM)
+## 📚 Algumas das Fontes
+🎥 FONTES DE VIDEOS:
+https://youtu.be/ZxYEKaAeBew?si=aLpiWbzNntNXAZph
+https://youtu.be/fMo_xntieUo?si=EGteuQAHHGc7IyqP
+https://youtu.be/r-Lg3I6cKH8?si=Mh17l1G09D7izUj2
+https://youtu.be/nYcL8-MRDnQ?si=YpOOS7YlurLtoCHf
+https://youtu.be/rjGcZ0jk9Zg?si=ZuCs2SrujBcZcCtb
+https://youtu.be/O0M91_R5Z4s?si=T4AsdubdjQ8_ZfNa
+https://youtu.be/mDbh1WZwwfk?si=lEDajCQmcQs0xGrD
+https://youtu.be/YBdMTVEP7zY?si=77xJnzjoAlHvQEgH
+
+📝 FONTES DE TEXTO:
+https://br.investing.com/academy/analysis/formula-benjamin-graham/
+https://blog.toroinvestimentos.com.br/bolsa/formula-de-graham/
+https://borainvestir.b3.com.br/objetivos-financeiros/investir-melhor/warren-buffett-metodos-de-investimento-para-seguir-e-quais-ignorar/
+https://www.lucianolarrossa.com/licoes-que-podemos-aprender-com-warren-buffett/
+https://napoleonhilloficial.com.br/
+https://www.naphill.org/
+https://exame.com/invest/minhas-financas/10-licoes-ensinadas-pelo-livro-pai-rico-pai-pobre/
+https://www.infomoney.com.br/onde-investir/as-dicas-de-robert-kiyosaki-para-voce-viver-de-renda/
 
 ## 🧠 Insights da IA
 ### Concordância Financeira
